@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bired: MyString
+  references: MyString
+  location: one
+
+two:
+  bired: MyString
+  references: MyString
+  location: two
